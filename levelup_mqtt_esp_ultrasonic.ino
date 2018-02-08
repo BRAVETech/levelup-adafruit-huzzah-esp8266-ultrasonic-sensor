@@ -24,15 +24,15 @@ const float pi = 3.1415729;
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "BBD Guest"
-#define WLAN_PASS       "@lw@ys@wesome2017"
+#define WLAN_SSID       "... Your WIFI SSID here ..."
+#define WLAN_PASS       "... Your WIFI Password here ..."
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  8883                   // use 8883 for SSL
-#define AIO_USERNAME    "guydelta"
-#define AIO_KEY         "93b0da1e5b7a4c87a99bac74afc922df"
+#define AIO_USERNAME    "... Your Adafruit Username here ..."
+#define AIO_KEY         "... Your Adafruit Access Key here ..."
 
 /************************* Sensor Setup *********************************/
 #define TRIG_PIN        13
