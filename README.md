@@ -45,8 +45,11 @@ After completing the install, replace the Adafruit_MQTT_Client.cpp file in your 
 The remainder of the setup will require your WIFI SSID and Password.
 
 If you have any trouble setting up the development environment, and setting up the board to communicate with the ultrasonic sensor, the following tutorials might help:
+
 https://learn.adafruit.com/mqtt-adafruit-io-and-you?view=all
+
 https://github.com/adafruit/Adafruit_MQTT_Library/blob/master/examples/mqtt_esp8266
+
 howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/
 
 
